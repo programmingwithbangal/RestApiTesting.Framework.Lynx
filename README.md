@@ -1,5 +1,5 @@
 # RestApiTesting.Framework.Lynx <img src ="RestApiTesting.Framework.Lynx/images/lynx.jpg" width=99>
-This is a RESTful API testing Framework using .NET Core, Xunit Gherkin Quick BDD test framework, RestSharp client library and Fluent Assertions to test JSONPlaceholder REST API.
+This is a RESTful API testing Framework using C#, .NET Core, Xunit Gherkin Quick BDD test framework, RestSharp client library and Fluent Assertions to test JSONPlaceholder REST API.
 
 ## Xunit.Gherkin.Quick  <img src ="RestApiTesting.Framework.Lynx/images/bdd.png" width=59>
 Xunit.Gherkin.Quick is a lightweight, cross platform BDD test framework (targets .NET Standard, can be used from both .NET and .NET Core test projects). It parses Gherkin language and executes Xunit tests corresponding to scenarios. https://github.com/ttutisani/Xunit.Gherkin.Quick
