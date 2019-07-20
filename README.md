@@ -32,7 +32,7 @@ Microsoft Visual Studio IDE is used to develop this Framework.
 
 ### Build Solution
 * Build => Build Solution
-<img src ="RestApiTesting.Framework.Lynx/images/build.png" width=500>
+<img src ="RestApiTesting.Framework.Lynx/images/build.png" width=350>
 
 ### Run Tests
 * Test => Windows => Test Explorer => Run All
