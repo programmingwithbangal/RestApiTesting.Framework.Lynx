@@ -30,6 +30,10 @@ https://fluentassertions.com/
 ## Integrated Development Environment
 Microsoft Visual Studio IDE is used to develop this Framework.
 
+### Build Solution
+* Build => Build Solution
+<img src ="RestApiTesting.Framework.Lynx/images/build.png" width=500>
+
 ### Run Tests
-* Go to: Test => Windows => Test Explorer => Run All
-<img src ="RestApiTesting.Framework.Lynx/images/testexplorer.png" width=99>
+* Test => Windows => Test Explorer => Run All
+<img src ="RestApiTesting.Framework.Lynx/images/testexplorer.png" width=500>
